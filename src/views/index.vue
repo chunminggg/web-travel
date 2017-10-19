@@ -49,7 +49,7 @@
 </template>
 <script>
 import network from '../tool/network'
-import mainScroll from './mainScroll'
+import mainScroll from './main/mainScroll'
 import mainNavitor from './main/mainNavitor'
 import tagView from './main/tagView'
 import recommendList from './main/recommendList'
